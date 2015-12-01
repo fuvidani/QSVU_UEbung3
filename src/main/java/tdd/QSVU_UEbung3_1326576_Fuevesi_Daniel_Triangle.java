@@ -31,8 +31,11 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle {
      * @param firstAngle degree of the first angle
      * @return the degree of the second angle
      */
-    public double calculateSecondAngle(double firstAngle){
-        return 0;
+    public double calculateSecondAngle(double firstAngle) throws IllegalArgumentException{
+        if(firstAngle <= 0 || firstAngle >= 90){
+            throw new IllegalArgumentException("Angle must be between 0 and 90 degree (exclusive)");
+        }
+        return 90-firstAngle;
     }
 
     /**

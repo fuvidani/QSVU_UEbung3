@@ -18,7 +18,6 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
     private QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle triangle;
     private double cathetus1 = 22.5;
     private double cathetus2 = 33;
-    private double angle1 = 34.3;
 
     @Before
     public void setUp(){
@@ -68,7 +67,7 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
 
     @Test
     public void calculateSecondAngle_WithValidParameterShouldCalculateCorrectly(){
-        double result = triangle.calculateSecondAngle(angle1);
+        double result = triangle.calculateSecondAngle(34.3);
         Assert.assertEquals(55.7,result,0);
     }
 
