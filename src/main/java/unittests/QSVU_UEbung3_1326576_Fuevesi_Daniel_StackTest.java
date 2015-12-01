@@ -22,7 +22,7 @@ import java.util.Stack;
  * </ol>
  * </p>
  * <p>The class contains both positive and negative test-cases.</p>
- * 
+ *
  * @author Daniel Fuevesi
  * @version 1.0.0
  * @since 01.12.15
