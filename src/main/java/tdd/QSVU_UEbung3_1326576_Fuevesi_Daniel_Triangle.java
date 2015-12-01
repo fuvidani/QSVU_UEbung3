@@ -18,7 +18,7 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle {
      * @return the length of the hypotenuse
      */
     public double calculateHypotenuse(double cathetus1, double cathetus2){
-        return 0;
+        return Math.sqrt(Math.pow(cathetus1,2) + Math.pow(cathetus2,2));
     }
 
     /**

@@ -33,7 +33,7 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
     @Test
     public void calculateHypotenuse_ShouldReturnCorrectResult(){
         double result = triangle.calculateHypotenuse(cathetus1,cathetus2);
-        Assert.assertEquals(39.9,result,0.0001);
+        Assert.assertEquals(39.94058086708304,result,0.00000000000001);
     }
 
 }
