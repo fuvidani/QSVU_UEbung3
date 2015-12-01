@@ -36,4 +36,36 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
         Assert.assertEquals(39.94058086708304,result,0.00000000000001);
     }
 
+    @Test
+    public void calculateHypotenuse_WithExtremeValueCloseToZero(){
+        double result = triangle.calculateHypotenuse(0.025,0.013);
+        Assert.assertEquals(0.028178005607210743,result,0);
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateHypotenuse_WithZeroParameter1ShouldThrowException(){
+        triangle.calculateHypotenuse(cathetus1,0);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateHypotenuse_WithZeroParameter2ShouldThrowException(){
+        triangle.calculateHypotenuse(0,cathetus2);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateHypotenuse_WithNegativeParameter2ShouldThrowException(){
+        triangle.calculateHypotenuse(cathetus1,-0.0002);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateHypotenuse_WithNegativeParameter1ShouldThrowException(){
+        triangle.calculateHypotenuse(-123,cathetus2);
+        Assert.fail();
+    }
+
+
+
 }
