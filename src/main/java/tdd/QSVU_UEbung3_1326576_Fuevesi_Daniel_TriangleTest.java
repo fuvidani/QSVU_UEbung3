@@ -6,8 +6,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * <h4>About this class</h4>
- * <p>Description</p>
+ * <h4>Tests for {@link QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle}</h4>
+ * <p>This class merely provides 16 independent test-cases
+ * (both positive and negative) to ensure proper functioning of
+ * {@link QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle}.</p>
  *
  * @author Daniel Fuevesi
  * @version 1.0.0
