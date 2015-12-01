@@ -66,6 +66,34 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
         Assert.fail();
     }
 
+    @Test
+    public void calculateSecondAngle_WithValidParameterShouldCalculateCorrectly(){
+        double result = triangle.calculateSecondAngle(angle1);
+        Assert.assertEquals(55.7,result,0);
+    }
 
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateSecondAngle_WithInvalidParameterShouldThrowExceptionA(){
+        triangle.calculateSecondAngle(91);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateSecondAngle_WithInvalidParameterShouldThrowExceptionB(){
+        triangle.calculateSecondAngle(0);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateSecondAngle_WithInvalidParameterShouldThrowExceptionC(){
+        triangle.calculateSecondAngle(143);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateSecondAngle_WithNegativeParameterShouldThrowException(){
+        triangle.calculateSecondAngle(-1);
+        Assert.fail();
+    }
 
 }
