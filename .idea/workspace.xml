@@ -11,6 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QSVU_UEbung3_practice.iml" afterPath="$PROJECT_DIR$/QSVU_UEbung3_practice.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" afterPath="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" afterPath="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/unittests/QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java" afterPath="$PROJECT_DIR$/src/main/java/unittests/QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java" />
     </list>
     <ignored path="QSVU_UEbung3_practice.iws" />
@@ -64,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52380955">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#549#550#0" expanded="true" />
                 <element signature="e#573#574#0" expanded="true" />
@@ -81,12 +82,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-              <folding />
+            <state vertical-scroll-proportion="0.7619048">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,6 +140,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/unittests/QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" />
       </list>
     </option>
   </component>
@@ -297,7 +305,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.StackTest">
+  <component name="RunManager" selected="JUnit.TriangleTest">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -724,8 +732,30 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="TriangleTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="QSVU_UEbung3_practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main.java.tdd" />
+      <option name="MAIN_CLASS_NAME" value="main.java.tdd.QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.StackTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -735,14 +765,11 @@
       <created>1448977603844</created>
       <option name="number" value="Default" />
       <updated>1448977603844</updated>
-      <workItem from="1448977605179" duration="8722000" />
+      <workItem from="1448977605179" duration="9645000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StackTest - 2015.12.01 at 16h 25m 44s.xml">
-      <configuration name="StackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StackTest - 2015.12.01 at 16h 25m 51s.xml">
       <configuration name="StackTest" configurationId="JUnit" />
     </history-entry>
@@ -770,9 +797,12 @@
     <history-entry file="StackTest - 2015.12.01 at 16h 58m 53s.xml">
       <configuration name="StackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TriangleTest - 2015.12.01 at 17h 41m 04s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8722000" />
+    <option name="totallyTimeSpent" value="9645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -815,14 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -875,8 +897,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52380955">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#549#550#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
@@ -884,6 +906,20 @@
             <element signature="e#916#917#0" expanded="true" />
             <element signature="e#1250#1251#0" expanded="true" />
             <element signature="e#1274#1275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7619048">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
           </folding>
         </state>
       </provider>

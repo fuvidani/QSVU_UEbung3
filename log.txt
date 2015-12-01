@@ -1,3 +1,20 @@
+commit 098192502f2ae149a1ba61d4adf9e21a1a00f938
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 17:25:26 2015 +0100
+
+    Set up Triangle class
+    
+    Setting up the Triangle class with the method definitions. All methods
+    return 0 and will be updated along the test-driven development.
+
+commit 32b7ba1f54518efc4347f54bc3bbd60238d252d7
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 17:00:04 2015 +0100
+
+    Implement StackTest
+    
+    Add implementation of the black box test of the class Stack<E>.
+
 commit b18a5fcaefd73cc5331da572f26834e72dc0b09e
 Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
 Date:   Tue Dec 1 14:54:52 2015 +0100
