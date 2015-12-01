@@ -17,7 +17,10 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle {
      * @param cathetus2 second cathetus of the triangle
      * @return the length of the hypotenuse
      */
-    public double calculateHypotenuse(double cathetus1, double cathetus2){
+    public double calculateHypotenuse(double cathetus1, double cathetus2) throws IllegalArgumentException{
+        if(cathetus1 <= 0 || cathetus2 <= 0){
+            throw new IllegalArgumentException("Catheti of a right triangle must be positive");
+        }
         return Math.sqrt(Math.pow(cathetus1,2) + Math.pow(cathetus2,2));
     }
 
