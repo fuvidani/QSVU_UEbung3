@@ -95,4 +95,34 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest {
         Assert.fail();
     }
 
+    @Test
+    public void calculateArea_WithValidParametersShouldCalculateCorrectly(){
+        double result = triangle.calculateArea(cathetus1,cathetus2);
+        Assert.assertEquals(371.25,result,0);
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateArea_WithZeroParameterShouldThrowExceptionA(){
+        triangle.calculateArea(0,cathetus2);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateArea_WithZeroParameterShouldThrowExceptionB(){
+        triangle.calculateArea(cathetus1,0);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateArea_WithNegativeParameterShouldThrowExceptionA(){
+        triangle.calculateArea(-123,cathetus2);
+        Assert.fail();
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void calculateArea_WithNegativeParameterShouldThrowExceptionB(){
+        triangle.calculateArea(cathetus1,-0.35);
+        Assert.fail();
+    }
+
 }

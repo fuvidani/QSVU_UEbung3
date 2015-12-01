@@ -75,8 +75,8 @@
       <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2486773">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.78835976">
+              <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#487#488#0" expanded="true" />
@@ -755,14 +755,11 @@
       <created>1448977603844</created>
       <option name="number" value="Default" />
       <updated>1448977603844</updated>
-      <workItem from="1448977605179" duration="12229000" />
+      <workItem from="1448977605179" duration="12733000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangleTest - 2015.12.01 at 17h 58m 12s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TriangleTest - 2015.12.01 at 18h 02m 33s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
@@ -790,9 +787,12 @@
     <history-entry file="TriangleTest - 2015.12.01 at 18h 32m 32s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TriangleTest - 2015.12.01 at 18h 41m 58s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12229000" />
+    <option name="totallyTimeSpent" value="12733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -900,8 +900,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2486773">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.78835976">
+          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
