@@ -45,7 +45,10 @@ public class QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle {
      * @param cathetus2 second cathetus of the triangle
      * @return the area of the right triangle
      */
-    public double calculateArea(double cathetus1, double cathetus2){
-        return 0;
+    public double calculateArea(double cathetus1, double cathetus2) throws IllegalArgumentException{
+        if(cathetus1 <= 0 || cathetus2 <= 0){
+            throw new IllegalArgumentException("Catheti of a right triangle must be both greater than zero");
+        }
+        return (cathetus1*cathetus2/2);
     }
 }
