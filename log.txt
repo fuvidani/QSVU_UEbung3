@@ -1,0 +1,13 @@
+commit b18a5fcaefd73cc5331da572f26834e72dc0b09e
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 14:54:52 2015 +0100
+
+    Set up project structure
+    
+    Create intelliJ project and add required classes
+
+commit ab7298dca4fbcf846eadeafdda5b82d5c9d9b30c
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 14:42:44 2015 +0100
+
+    first commit1
