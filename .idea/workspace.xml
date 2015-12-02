@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaf64345-373c-4299-a5eb-70fa2c1a7b61" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testisolation/TimeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/QSVU_UEbung3_practice/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.class" afterPath="$PROJECT_DIR$/out/production/QSVU_UEbung3_practice/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/QSVU_UEbung3_practice/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.class" afterPath="$PROJECT_DIR$/out/production/QSVU_UEbung3_practice/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.txt" afterPath="$PROJECT_DIR$/log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/TimeService.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/TimeService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java" />
     </list>
     <ignored path="QSVU_UEbung3_practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,112 +38,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unittests/QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChristmasCounter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="50" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="82" selection-start-line="29" selection-start-column="82" selection-end-line="29" selection-end-column="82" />
-              <folding>
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84656084">
-              <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,8 +59,22 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-              <folding />
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31746033">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,6 +106,8 @@
         <option value="$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/testisolation/TimeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java" />
         <option value="$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java" />
       </list>
@@ -350,7 +274,33 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.StubTest">
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration default="false" name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.java.testisolation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="QSVU_UEbung3_practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main.java.testisolation" />
+      <option name="MAIN_CLASS_NAME" value="main.java.testisolation.QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest" />
+      <option name="METHOD_NAME" value="calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -803,6 +753,27 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="false" name="MockTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="QSVU_UEbung3_practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main.java.testisolation" />
+      <option name="MAIN_CLASS_NAME" value="main.java.testisolation.QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="false" name="TriangleTest" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="QSVU_UEbung3_practice" />
@@ -824,11 +795,18 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.StackTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.StubTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MockTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -841,48 +819,48 @@
       <option name="number" value="Default" />
       <updated>1448977603844</updated>
       <workItem from="1448977605179" duration="13992000" />
-      <workItem from="1449062113182" duration="1919000" />
+      <workItem from="1449062113182" duration="6133000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StubTest - 2015.12.02 at 15h 26m 28s.xml">
-      <configuration name="StubTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 16h 03m 37s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 23m 59s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 16h 03m 53s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 29m 11s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 16h 04m 06s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 31m 07s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 16h 06m 39s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 31m 10s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 17h 24m 12s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 32m 32s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="MockTest - 2015.12.02 at 17h 24m 25s.xml">
+      <configuration name="MockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 41m 58s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest_calculateDaysToChristmas_ShouldRunOperationInCorrectOrder - 2015.12.02 at 16h 04m 13s.xml">
+      <configuration name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 18h 47m 18s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest_calculateDaysToChristmas_ShouldRunOperationInCorrectOrder - 2015.12.02 at 16h 05m 13s.xml">
+      <configuration name="QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.calculateDaysToChristmas_ShouldRunOperationInCorrectOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 19h 08m 49s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="StackTest - 2015.12.02 at 17h 24m 19s.xml">
+      <configuration name="StackTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2015.12.01 at 19h 08m 55s.xml">
+    <history-entry file="TriangleTest - 2015.12.02 at 17h 24m 30s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15911000" />
+    <option name="totallyTimeSpent" value="20125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -891,7 +869,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25995025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25995025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -900,7 +878,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -922,7 +900,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -945,10 +923,6 @@
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -969,31 +943,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15873016">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71428573">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/unittests/QSVU_UEbung3_1326576_Fuevesi_Daniel_StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.63492066">
           <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1001,10 +982,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.58201057">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tdd/QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026455026">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -1012,38 +1003,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Mock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="82" selection-start-line="29" selection-start-column="82" selection-end-line="29" selection-end-column="82" />
+          <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
           <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/TimeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/ChristmasCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="50" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1051,19 +1018,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_Stub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_MockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testisolation/QSVU_UEbung3_1326576_Fuevesi_Daniel_TimeService_StubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84656084">
-          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+        <state vertical-scroll-proportion="0.31746033">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

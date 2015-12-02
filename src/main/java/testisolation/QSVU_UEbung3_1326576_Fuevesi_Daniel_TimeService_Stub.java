@@ -5,8 +5,10 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * <h4>About this class</h4>
- * <p>Description</p>
+ * <h4>Stub for {@link TimeService}</h4>
+ * <p>This class is a stub for the implementation of
+ * {@link TimeService}. The stubbed methods return only
+ * hardcoded values.</p>
  *
  * @author Daniel Fuevesi
  * @version 1.0.0

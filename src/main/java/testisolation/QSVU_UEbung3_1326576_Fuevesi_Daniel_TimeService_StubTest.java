@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * <h4>About this class</h4>
+ * <h4>Test of {@link TimeService} using a Stub-object</h4>
  * <p>Description</p>
  *
  * @author Daniel Fuevesi

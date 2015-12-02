@@ -5,8 +5,8 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * <h4>About this class</h4>
- * <p>Description</p>
+ * <h4>Counter for counting down the days until christmas.</h4>
+ * <p></p>
  *
  * @author Daniel Fuevesi
  * @version 1.0.0

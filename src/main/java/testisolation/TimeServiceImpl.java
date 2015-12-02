@@ -3,8 +3,8 @@ package main.java.testisolation;
 import java.util.Date;
 
 /**
- * <h4>About this class</h4>
- * <p>Description</p>
+ * <h4>An implementation of {@link TimeService}</h4>
+ * <p></p>
  *
  * @author Daniel Fuevesi
  * @version 1.0.0
