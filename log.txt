@@ -1,3 +1,98 @@
+commit 81c5602a2fd10c61ea88ea1d9a0f9a584e9df6a2
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 19:02:21 2015 +0100
+
+    Update java-Doc, finish TDD
+    
+    Update the method documentations as well as the class descriptions of
+    QSVU_UEbung3_1326576_Fuevesi_Daniel_Triangle.java and
+    QSVU_UEbung3_1326576_Fuevesi_Daniel_TriangleTest.java
+
+commit c78b6d78c2705b3ffad98f7509118062ef519164
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:49:33 2015 +0100
+
+    Implement calculateArea to satisfy tests
+    
+    Add implementation of the functionality calculateArea(double cathetus1,
+    double cathetus2). All tests (positive and negative) pass.
+
+commit 967d97bdf795452493f7d76ae4d10e31f42d35e2
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:45:12 2015 +0100
+
+    Add test-cases for calculateArea
+    
+    Positive & negative test-cases (5 in total) added for
+    calculateArea(double cathetus1, double cathetus2). All test fails,
+    because there is no concrete implementation yet.
+    Positive test-case: Method should calculate area correctly (fails).
+    Negative test-cases: Method should throw exception, because invalid
+    parameters (zero, negative) are provided(fails).
+
+commit fa3e0cfc2efdc7506ecf67213fc319fe43b19f2d
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:33:44 2015 +0100
+
+    Implement calculateSecondAngle to satisfy tests
+    
+    Add implementation of the functionality calculateSecondAngle(double
+    firstAngle). All tests (both positive and negative) pass.
+
+commit 0f5ed0aa588b708a5908955e4ced2058e2657347
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:26:26 2015 +0100
+
+    Add test-cases for calculateSecondAngle
+    
+    Positive & negative test-cases (5 in total) added for
+    calculateSecondAngle(double firstAngle). All test fails, because there
+    is no concrete implementation yet.
+
+commit e0e746f95d7d7440b7b9c12c8732630d2c799ced
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:16:33 2015 +0100
+
+    Update calculateHypotenuse to satisfy tests
+    
+    Implement missing functionality (validation). All tests for this method
+    passed.
+
+commit ea4e5939ba7981c81445c8dbff84192eeff677a2
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:10:25 2015 +0100
+
+    Add gitignore
+
+commit 2087e0e97b5cbd87c4174fe7ea6972bff9ba815f
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 18:04:59 2015 +0100
+
+    Add Negative test-cases
+    
+    Implementation of negative test-cases that should all throw an
+    exception. Currently, all these tests fail and the functionality needs
+    to be implemented.
+
+commit f124bdad0a049851fe433a55be39c9c40458983b
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 17:48:45 2015 +0100
+
+    Implement calculateHypotenuse for the test
+    
+    Add basic implementation of the actual calculation. First test runs
+    without error.
+
+commit f938a0232f58b14ab2b75ffc7ee9c9d172c09464
+Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
+Date:   Tue Dec 1 17:43:10 2015 +0100
+
+    Implement first test-case for calculateHypotenuse
+    
+    Add an implementation of a positive test-case, that should return the
+    calculated hypotenuse. There is still no implementation, thus the test
+    fails.
+
 commit 098192502f2ae149a1ba61d4adf9e21a1a00f938
 Author: Daniel Füvesi <e1326576@student.tuwien.ac.at>
 Date:   Tue Dec 1 17:25:26 2015 +0100
